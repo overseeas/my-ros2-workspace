@@ -1,0 +1,21 @@
+# ROS 2 Build Artifacts
+build/
+install/
+log/
+
+# Python artifacts
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Foxglove / Data logs
+*.mcap
+*.db3
